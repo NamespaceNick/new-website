@@ -1,0 +1,17 @@
+$default-text-color: #D9EBE9;
+$outer-background-color: #05090E;
+$inner-background-color: #0E1821;
+
+
+
+
+html {
+	background-color: $outer-background-color;
+}
+
+body {
+	margin: 0 auto 0 auto;
+	width: 862px;
+	color: $default-text-color;
+	background-color: $inner-background-color;
+}
